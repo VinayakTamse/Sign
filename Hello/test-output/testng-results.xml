@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="149592" started-at="2019-06-19T16:05:37Z" finished-at="2019-06-19T16:08:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="149592" started-at="2019-06-19T16:05:37Z" finished-at="2019-06-19T16:08:07Z">
+      <class name="TestCases.LoginTestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.LoginTestcase@39c0f4a]" name="setUp" is-config="true" duration-ms="30994" started-at="2019-06-19T16:07:01Z" finished-at="2019-06-19T16:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:TestCases.LoginTestcase@39c0f4a]" name="LoginTest" duration-ms="29033" started-at="2019-06-19T16:07:32Z" finished-at="2019-06-19T16:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.LoginTestcase@39c0f4a]" name="tearDown" is-config="true" duration-ms="5395" started-at="2019-06-19T16:08:01Z" finished-at="2019-06-19T16:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.LoginTestcase -->
+      <class name="TestCases.Click_On_Login_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.Click_On_Login_Test@7d9d1a19]" name="setUp" is-config="true" duration-ms="65429" started-at="2019-06-19T16:05:37Z" finished-at="2019-06-19T16:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnLoginTest()[pri:0, instance:TestCases.Click_On_Login_Test@7d9d1a19]" name="clickOnLoginTest" duration-ms="13406" started-at="2019-06-19T16:06:43Z" finished-at="2019-06-19T16:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.Click_On_Login_Test@7d9d1a19]" name="tearDown" is-config="true" duration-ms="5161" started-at="2019-06-19T16:06:56Z" finished-at="2019-06-19T16:07:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.Click_On_Login_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
